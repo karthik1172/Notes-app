@@ -1,5 +1,5 @@
 # Notes-app
-Developed the Full Stack app with CRUD operations which allows user to Create, Save, Update, Delete and Read the notes that they have created and save. 
+Developed the Full Stack iOS app with CRUD operations which allows user to Create, Save, Update, Delete and Read the notes that they have created and save. 
 
 Technology used :
 
